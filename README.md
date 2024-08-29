@@ -42,19 +42,22 @@ The Bug Tracking System is a Java application designed to assist software develo
 
 ### Installation Steps
 
-1. Download and unzip the project files.
+1. **Download the Files:**
+   - Download the individual Java files (`Bug.java`, `BugTracker.java`) to your local machine.
 
-2. Import the project into your preferred IDE:
+2. **Open the Files in Your IDE:**
    - **IntelliJ IDEA:**
-     - Go to `File` > `Open`, and select the folder where the project was extracted.
+     - Select `File` > `Open` and navigate to the directory where the files are saved.
+     - Open the individual `.java` files or create a new project and add these files to it.
    - **Eclipse:**
-     - Go to `File` > `Import`, choose `Existing Projects into Workspace`, then navigate to the extracted project folder.
+     - Select `File` > `Import`, then choose `General > File System`.
+     - Navigate to the directory where the files are saved and import them into a new or existing project.
 
-3. Compile the project:
-   - Your IDE should automatically compile the Java files. If not, manually trigger the build or compilation process.
+3. **Compile the Project:**
+   - Your IDE should automatically compile the Java files when they are opened. If not, use the IDE’s build or compile option.
 
-4. Launch the application:
-   - In the IDE, locate the `BugTracker` class.
+4. **Run the Application:**
+   - Locate the `BugTracker` class within the IDE.
    - Right-click on `BugTracker` and select `Run` to start the application.
 
 ## How to Use
