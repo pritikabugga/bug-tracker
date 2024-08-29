@@ -1,14 +1,14 @@
-# Bug Tracking System
+# Bug Tracking Application
 
 ## Introduction
 
-The Bug Tracking System is a Java application designed to assist software development teams in efficiently tracking and managing bugs. This tool allows users to log new bugs, update their details, and monitor the progress of bug resolution. The system includes a `Bug` class to represent each bug and a `BugTracker` class to oversee the collection and management of these bugs.
+The Bug Tracking Application is designed in Java to assist software development teams in efficiently tracking and managing bugs. This tool allows users to log new bugs, update their details, and monitor the progress of bug resolution. The application includes a `Bug` class to represent each bug and a `BugTracker` class to oversee the collection and management of these bugs.
 
 ## Key Features
 
 - **Log New Bugs:** Users can report bugs by providing detailed descriptions, setting priority levels, and assigning statuses.
 - **Update Bug Information:** Modify the status, priority, or assignment of any existing bug as needed.
-- **Monitor Bugs:** The system maintains a list of all reported bugs, which can be searched, filtered, and sorted based on various criteria.
+- **Monitor Bugs:** The application maintains a list of all reported bugs, which can be searched, filtered, and sorted based on various criteria.
 
 ## Core Components
 
